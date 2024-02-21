@@ -11,6 +11,9 @@ verschickt.
 
 ## Vergangene Anlässe
 
-* Kommando Cyber (Bülach) vom 7. September 2023
-* Zühlke Engineering AG (Schlieren) vom 8. September 2022
-* Cyber Crime (Winterthur) vom 9. September 2021
+* [Kommando Cyber](https://www.vtg.admin.ch/de/gruppe-verteidigung/organisation/kdo-cy.html) 
+  (Bülach) vom 7. September 2023
+* [Zühlke Engineering AG](https://www.zuehlke.com/de) 
+  (Schlieren) vom 8. September 2022
+* [Cyber Crime](https://www.baselland.ch/politik-und-behorden/direktionen/sicherheitsdirektion/polizei/wir-uber-uns/krimi/kompetenzzentrum-cyberkriminalitaet) 
+  (Winterthur) vom 9. September 2021
