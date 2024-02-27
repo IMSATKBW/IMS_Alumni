@@ -17,3 +17,10 @@ verschickt.
   (Schlieren) vom 8. September 2022
 * [Cyber Crime](https://www.baselland.ch/politik-und-behorden/direktionen/sicherheitsdirektion/polizei/wir-uber-uns/krimi/kompetenzzentrum-cyberkriminalitaet) 
   (Winterthur) vom 9. September 2021
+
+# Mitglied werden
+
+Falls Sie Absolvent einer IMS im Kanton Zürich sind, können Sie sich per
+Mail an ims.alumniATkbw.ch für eine Mitgliedschaft bei IMS Alumni Kanton
+Zürich anmelden. Bitte geben Sie in der E-Mail an, wann Sie an welcher
+Schule die IMS abgeschlossen haben.
