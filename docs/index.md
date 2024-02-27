@@ -21,6 +21,6 @@ verschickt.
 # Mitglied werden
 
 Falls Sie Absolvent einer IMS im Kanton Zürich sind, können Sie sich per
-Mail an ims.alumniATkbw.ch für eine Mitgliedschaft bei IMS Alumni Kanton
+Mail an ims.alumni*AT*kbw.ch für eine Mitgliedschaft bei IMS Alumni Kanton
 Zürich anmelden. Bitte geben Sie in der E-Mail an, wann Sie an welcher
 Schule die IMS abgeschlossen haben.
